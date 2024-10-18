@@ -1,5 +1,5 @@
 # Stroke_Risk_Prediction
- This project focuses on creating a predictive model to assess the likelihood of heart disease in patients using a dataset from the UCI Machine Learning Repository.<br> The dataset contains various medical attributes, which will be analyzed to predict whether a patient has heart disease.
+ This project focuses on creating a predictive model to assess the likelihood of heart disease in patients using a dataset from the UCI Machine Learning Repository.<br> <br>The dataset contains various medical attributes, which will be analyzed to predict whether a patient has heart disease.
 <br><br>
 
 ## Dataset
@@ -11,9 +11,9 @@ fasting blood sugar etc
 ## Tools and Libraries
 Python and Jupyter Notebook will be used as the primary development environment, offering flexibility for writing code and analyzing results interactively.<br>
 The following libraries will be employed:<br>
--Numpy: For numerical operations and efficient array manipulations.  
--Pandas: For handling and manipulating tabular data, allowing easy exploration and transformation of the dataset.  
--sklearn.model_selection: Specifically, the train_test_split function will be used to divide the dataset into training and testing sets. The training set will be used to train the model, while the test set will be used to evaluate its performance.
+- Numpy: For numerical operations and efficient array manipulations.  
+- Pandas: For handling and manipulating tabular data, allowing easy exploration and transformation of the dataset.  
+- sklearn.model_selection: Specifically, the train_test_split function will be used to divide the dataset into training and testing sets. The training set will be used to train the model, while the test set will be used to evaluate its performance.
 
 ## Logistic regression
 The project will utilize Logistic Regression, a popular algorithm for binary classification tasks like this one, where the goal is to predict whether heart disease is present or absent.<br>
