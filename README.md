@@ -17,4 +17,4 @@ The following libraries will be employed:<br>
 
 ## Logistic regression
 The project will utilize Logistic Regression, a popular algorithm for binary classification tasks like this one, where the goal is to predict whether heart disease is present or absent.<br>
-Logistic regression is ideal for this project because it provides probability-based predictions and works well with medical datasets where the outcomes are binary i.e <br><br> 1 =>presence of diesease,0 => absence of disease.<br>
+Logistic regression is ideal for this project because it provides probability-based predictions and works well with medical datasets where the outcomes are binary i.e <br><br> 1 =>presence of heart disease,0 => absence of heart disease.<br>
