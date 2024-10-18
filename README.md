@@ -3,7 +3,7 @@
 <br><br>
 
 ## Dataset
-The dataset used for this analysis is the Heart Disease dataset from the UCI Machine Learning Repository, a popular source for machine learning datasets.<br>
+The dataset used for this analysis is the Heart Disease dataset from the UCI Machine Learning Repository, a popular source for machine learning datasets.<br><br>
 It includes various medical attributes, such as age,sexchest pain,resting blood pressure,cholestrol,
 fasting blood sugar etc
 <br><br>
@@ -17,4 +17,4 @@ The following libraries will be employed:<br>
 
 ## Logistic regression
 The project will utilize Logistic Regression, a popular algorithm for binary classification tasks like this one, where the goal is to predict whether heart disease is present or absent.<br>
-Logistic regression is ideal for this project because it provides probability-based predictions and works well with medical datasets where the outcomes are binary i.e <br> 1 =>presence of diesease,0 => absence of disease.<br>
+Logistic regression is ideal for this project because it provides probability-based predictions and works well with medical datasets where the outcomes are binary i.e <br><br> 1 =>presence of diesease,0 => absence of disease.<br>
